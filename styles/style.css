@@ -7,9 +7,9 @@ body {
 	padding: 0;
 	text-align: left;
 	font: Arial, Helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 18px;
 	color: #061C37;
-	background-color: #FCFBEF;
+	background-color: #e7f8fc;
 	background-image:url(images/background.png);
 	background-repeat:repeat-x;
 }
@@ -30,7 +30,7 @@ body {
 {
 	position:absolute;
 text-align:left;
-font-size:30px;
+font-size:40px;
 color:#090f2c;
 left:50px;
 top:220px;
